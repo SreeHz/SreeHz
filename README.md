@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SreeHz
 - 👀 I’m interested in Networking and Software Development
 - 🌱 I’m currently learning final yr CSE Student
-- 💞️ I’m looking to collaborate on None
 - 📫 How to reach me raswanth28@gmail.com
 
 <!---
